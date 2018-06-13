@@ -21,6 +21,27 @@ Temporal:
 - timestamp
 - day, month, year
 
+**Key statistics:**
+Plays
+- 1892 users
+- 17,632 artists
+- top 50 songs for each user by plays
+- [artists played a median of 260 times, mean 745 times]
+- 69.18 million plays in the dataset
+- 69 million plays -> 3,923 plays per artist, 36,566 plays per user
+- Britney Spears most played artist at 2.4 million plays, 3.5% of all plays
+- Lady Gaga has most unique users, played by 32.3% of the user base
+- mean 5.265 users listen to each artist
+- user # 757 is the heaviest user with 480,000 plays.  How this is possible is not currently clear, as at 4 minutes per song this would equate to 3.6 years played nonstop, and this data is from 2011.  35.3% of their plays were of Shakira.  
+
+
+Tags
+- 11,946 tags
+
+
+Friends
+- 13.4 average friends per user
+
 ### Future Additions
 
 If song audio data can be obtained, can incorporate deep learning techniques to learn the underlying sound profiles of song clips to recommend songs that exhibit similar characteristics.  As demonstrated in [Deep content-based music recommendation (NIPS 2013)](http://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf)
