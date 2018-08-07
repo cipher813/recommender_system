@@ -9,7 +9,7 @@ Our agenda is as follows:
 - Assess results
 - Respond to questions on the project including areas for improvement
 
-In addition to this README containing general information on the project, our project consists of the following notebooks:
+In addition to this README containing general information on the project, our project consists of the following [notebooks](https://github.com/cipher813/recommender_system/tree/master/notebooks):
 * (01) Collaborative Filter using scikit-learn and TuriCreate (main project submission)
 * Appendices of preliminary EDA/topic modeling of user/artist tags for content-based filter:
  - (A01) Using scikit-learn's K Means Clustering and t-SNE
