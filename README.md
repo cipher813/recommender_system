@@ -9,6 +9,10 @@ Our agenda is as follows:
 - Assess results
 - Respond to questions on the project including areas for improvement
 
-Please see [project notebook](https://github.com/cipher813/recommender_system/tree/master/notebooks) for full analysis.
+This project consists of the following notebooks:
+- 01. Collaborative Filter using scikit-learn and TuriCreate (main project submission)
+- Appendices of preliminary EDA/topic modeling of user/artist tags for content-based filter:
+ - A01. Using scikit-learn's K Means Clustering and t-SNE
+ - A02. LDA using pyLDAvis  
 
-*As a separate analysis, for preliminary EDA work to incorporate content-based filter components to our recommender system, see [Appendix notebooks](https://github.com/cipher813/recommender_system/tree/master/notebooks) for topic modeling of artist tags with K Means Clustering and tSNE, and separately with pyLDAvis. Adding content-based features from metadata, such as artist tags by users, is a key area of further work to build upon this analysis.*
+*Adding content-based features from metadata, such as artist tags by users, is a key area of further work to build upon this analysis.*
