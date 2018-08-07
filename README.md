@@ -10,10 +10,10 @@ Our agenda is as follows:
 - Respond to questions on the project including areas for improvement
 
 In addition to this README containing general information on the project, our project consists of the following notebooks:
-* A. Notebook 01. Collaborative Filter using scikit-learn and TuriCreate (main project submission)
-* B. Appendices of preliminary EDA/topic modeling of user/artist tags for content-based filter:
- - 1. Notebook A01. Using scikit-learn's K Means Clustering and t-SNE
- - 2. Notebook A02. LDA using pyLDAvis  
+* 01. Collaborative Filter using scikit-learn and TuriCreate (main project submission)
+* 02. Appendices of preliminary EDA/topic modeling of user/artist tags for content-based filter:
+ - a. Using scikit-learn's K Means Clustering and t-SNE
+ - b. LDA using pyLDAvis  
 
 *Adding content-based features from metadata, such as artist tags by users, is a key area of further work to build upon this analysis.*
 
